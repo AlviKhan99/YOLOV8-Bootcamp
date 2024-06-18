@@ -17,3 +17,9 @@ STEP 03: Install the required modules
 ```bash
 pip install -r requirements.txt
 ```
+
+Dataset Labelling Platform:
+
+```bash
+https://www.makesense.ai/
+```
