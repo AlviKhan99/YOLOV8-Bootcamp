@@ -1,0 +1,8 @@
+path: '/content/gdrive/MyDrive/YOLOv8/Sign_Language_dataset/data.yaml' # dataset root dir
+train: '/content/gdrive/MyDrive/YOLOv8/Sign_Language_dataset/data/images/train'  # train images (relative to 'path')
+val: '/content/gdrive/MyDrive/YOLOv8/Sign_Language_dataset/data/images/val'  # val images (relative to 'path')
+
+names:
+  0: Gun
+  1: Heart
+  2: Hi
